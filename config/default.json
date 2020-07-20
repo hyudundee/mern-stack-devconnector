@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://haoranyu:12345677654321@mern-shopping-list.bzwhf.mongodb.net/mern-shopping-list?retryWrites=true&w=majority"
+}
